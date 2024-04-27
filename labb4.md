@@ -67,6 +67,7 @@ Följande funktionalitet ska finnas i systemet:
 4. Försäljning av produkt
 
 Systemet ska ha två separata vyer (t.ex. flikar eller fönster), en för **lagerarbete** och en för **kassabruk** (dock **max en instans** av varje vy). Vyerna ska båda ha en lättöverskådlig produktlista, och endast tillgång till relevant funktionalitet. Vyerna ska arbeta mot samma data som ni ska lagra i en **CSV-fil**. Vid försäljning ska varor kunna läggas till i en kundkorg innan köpet genomförs. Vid uppstart av programmet ska denna fil läsas in, och när programmet stängs av ska filen sparas. 
+
 <ins>**Ni som använder UWP skall låta användaren av programmet välja fil med hjälp av FileOpenPicker då filhanteringen i UWP skiljer sig en hel del från WinForms och WPF.**</ins>
 Databasen (CSV-filen) ska ligga i samma katalogstruktur som er källkod 
 <ins>**(OBS! Gäller INTE er som använder UWP)**</ins>
