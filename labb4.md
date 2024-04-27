@@ -40,11 +40,6 @@ Här går vi igenom datatyperna List och Dictionary, som både används för att
 
 Här går jag igenom kontroller för att visa information i listor. Lite annat format då jag var tvungen att spela in ljudet i efterhand. Hoppas det funkar ändå
 
-### Local Storage
-[Video](https://kauplay.kau.se/media/t/0_tdp2t0kg)
-
-Här går jag igenom hur man läser filer på datorn, utan att behöva fråga användaren om lov, eller vilken fil den vill läsa från. Det går även att använda samma tekniker för att spara.
-
 # Lab 4
 Denna laboration går ut på att både **designa** och **implementera** ett affärssystem. Affärssystemet ska användas till en fysisk affär som säljer media (t.ex. böcker, cd-skivor, spel). Systemet ska användas av anställda i affären och kunna hantera både kassahantering och lagerhållning.
 
